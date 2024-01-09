@@ -3,7 +3,7 @@ A line follower robot is a device that can detect and follow a line drawn on the
 
 I bought all the electronic parts necessary to build a line-follower robot:
 
--> 1 transparent chassis of plastic
+-> 1 transparent chassis of plastic<br>
 -> 4 motors
 -> 4 wheels
 -> L298N motor driver board
