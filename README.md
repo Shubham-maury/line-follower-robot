@@ -15,3 +15,6 @@ I bought all the electronic parts necessary to build a line-follower robot:
 -> 3 batteries<br>
 -> 1 USB cable for Arduino<br>
 -> Cables, screws and bolts<br>
+
+![image](https://github.com/Shubham-maury/line-follower-robot/assets/129674910/b82aba66-7bbd-4b71-826f-dd9862411a8e)
+
